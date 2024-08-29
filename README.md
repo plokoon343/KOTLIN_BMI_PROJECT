@@ -1,4 +1,4 @@
-# BMI Calculator
+# BMI Calculator Final Kotlin App Project 
 
 This is a simple Android application designed to calculate Body Mass Index (BMI) based on the user's height and weight. The app provides instant feedback on the user's health status based on the BMI value.
 
