@@ -25,7 +25,7 @@ This is a simple Android application designed to calculate Body Mass Index (BMI)
 
 1. Clone this repository to your local machine using:
     ```bash
-    git clone https://github.com/yourusername/final_bmi.git
+    git clone https://github.com/plokoon343/final_bmi.git
     ```
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
